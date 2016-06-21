@@ -42,8 +42,9 @@ Get the copy from the base libraries
 @Todo
 
 ### Environment
-Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.
-<https://github.com/vlucas/phpdotenv](https://github.com/vlucas/phpdotenv>
+Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically
+
+<https://github.com/vlucas/phpdotenv>
 
 ### Hashing
 @Todo
@@ -77,6 +78,8 @@ Copy the classes from the base libraries
 
 ### Storage
 @Todo (Hilari)
+
+Store files into different filesystems: disk, s3, ...
 
 <https://github.com/CMProductions/storage>
 
