@@ -24,15 +24,17 @@ composer require silex/silex "~2.0"
 @Todo
 
 ### Cache
-@Todo
+@Todo (Hilari)
 
 Copy something similar to [this](https://github.com/moust/silex-cache-service-provider)
+
+<https://github.com/CMProductions/cache>
 
 ### Circuit Breaker
 @Todo
 
 ### Domain Events
-@Todo (Hilari)
+@Todo (Quim)
 
 Get the copy from the base libraries
 
@@ -73,8 +75,6 @@ Copy the classes from the base libraries
 ### Service Discovery
 @Todo
 
-### Session
-@Todo
 
 ### Storage
 @Todo (Hilari)
