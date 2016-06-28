@@ -27,6 +27,7 @@ composer require silex/silex "~2.0"
 @Todo (Hilari)
 
 Copy something similar to [this](https://github.com/moust/silex-cache-service-provider)
+PSR-6 [psr-6](https://github.com/php-fig/cache)
 
 <https://github.com/CMProductions/cache>
 
